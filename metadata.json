@@ -1,0 +1,7 @@
+{
+  "name": "SFDP - Smart Food Redistribution",
+  "description": "A smart platform connecting food surplus with communities in need, powered by AI logistics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
